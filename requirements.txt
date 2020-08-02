@@ -2,4 +2,3 @@ validate_email
 colored
 paramiko
 pywifi
-zipfile

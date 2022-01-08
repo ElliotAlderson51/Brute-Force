@@ -1,3 +1,11 @@
+##################################################
+#                                                #
+#         Malware Coder: Elliot Alderson         #
+#                                                #
+#   Github: https://github.com/ElliotAlderson51  #
+#                                                #
+##################################################
+
 # imports
 import zipfile
 import os

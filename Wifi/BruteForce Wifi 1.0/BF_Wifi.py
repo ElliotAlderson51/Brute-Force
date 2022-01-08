@@ -1,3 +1,11 @@
+##################################################
+#                                                #
+#         Malware Coder: Elliot Alderson         #
+#                                                #
+#   Github: https://github.com/ElliotAlderson51  #
+#                                                #
+##################################################
+
 import sys
 import os
 import os.path

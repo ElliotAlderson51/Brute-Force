@@ -1,3 +1,11 @@
+##################################################
+#                                                #
+#         Malware Coder: Elliot Alderson         #
+#                                                #
+#   Github: https://github.com/ElliotAlderson51  #
+#                                                #
+##################################################
+
 import smtplib
 import os
 from validate_email import validate_email
